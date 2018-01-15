@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable/lightbulb.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable/lightbulb.png"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable/ic_stat_camera.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable/ic_stat_camera.png"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable/icon.png"
+    }
+]

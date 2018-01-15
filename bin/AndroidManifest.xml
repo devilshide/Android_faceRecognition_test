@@ -10,7 +10,7 @@
         android:icon="@drawable/lightbulb"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
 
-        <activity android:name="org.opencv.javacv.facerecognition.FdActivity"
+        <activity android:name="org.opencv.test.facerecognition.FdActivity"
                   android:label="@string/app_name"
                   android:screenOrientation="landscape"
                   android:configChanges="keyboardHidden|orientation">
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         
-        <activity android:name="org.opencv.javacv.facerecognition.ImageGallery"
+        <activity android:name="org.opencv.test.facerecognition.ImageGallery"
                   android:label="@string/app_name"
                   android:screenOrientation="landscape"
                   android:configChanges="keyboardHidden|orientation">

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package org.opencv.javacv.facerecognition;
+package org.opencv.test.facerecognition;
 
 public final class R {
     public static final class attr {
@@ -110,7 +110,7 @@ containing a value of this type.
             0x7f010000, 0x7f010001
         };
         /**
-          <p>This symbol is the offset where the {@link org.opencv.javacv.facerecognition.R.attr#camera_id}
+          <p>This symbol is the offset where the {@link org.opencv.test.facerecognition.R.attr#camera_id}
           attribute's value can be found in the {@link #CameraBridgeViewBase} array.
 
 
@@ -134,7 +134,7 @@ containing a value of this type.
         */
         public static final int CameraBridgeViewBase_camera_id = 1;
         /**
-          <p>This symbol is the offset where the {@link org.opencv.javacv.facerecognition.R.attr#show_fps}
+          <p>This symbol is the offset where the {@link org.opencv.test.facerecognition.R.attr#show_fps}
           attribute's value can be found in the {@link #CameraBridgeViewBase} array.
 
 

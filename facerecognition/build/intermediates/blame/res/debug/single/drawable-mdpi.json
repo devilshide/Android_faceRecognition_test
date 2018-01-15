@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable-mdpi/ic_red.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable-mdpi/ic_red.png"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable-mdpi/ic_yellow.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable-mdpi/ic_yellow.png"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/drawable-mdpi/ic_green.png",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/drawable-mdpi/ic_green.png"
+    }
+]

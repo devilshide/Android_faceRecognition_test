@@ -1,4 +1,4 @@
-package org.opencv.javacv.facerecognition;
+package org.opencv.test.facerecognition;
 
 import static  com.googlecode.javacv.cpp.opencv_highgui.*;
 import static  com.googlecode.javacv.cpp.opencv_core.*;

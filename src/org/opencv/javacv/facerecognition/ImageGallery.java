@@ -1,4 +1,4 @@
-package org.opencv.javacv.facerecognition;
+package org.opencv.test.facerecognition;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FilenameFilter;
 import java.io.InputStream;
 
-import org.opencv.javacv.facerecognition.R;
+import org.opencv.test.facerecognition.R;
 
 import android.app.Activity;
 import android.content.Context;

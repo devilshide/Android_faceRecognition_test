@@ -1,4 +1,4 @@
-package org.opencv.javacv.facerecognition;
+package org.opencv.test.facerecognition;
 
 import java.io.File;
 //import java.io.FileNotFoundException;
@@ -19,7 +19,7 @@ import org.opencv.core.MatOfRect;
 import org.opencv.core.Rect;
 import org.opencv.core.Scalar;
 import org.opencv.core.Size;
-import org.opencv.javacv.facerecognition.R;
+import org.opencv.test.facerecognition.R;
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewListener2;
 import org.opencv.objdetect.CascadeClassifier;
 
@@ -274,8 +274,8 @@ public class FdActivity extends Activity implements CvCameraViewListener2 {
         
         buttonCatalog.setOnClickListener(new View.OnClickListener() {
         	public void onClick(View view) {
-        		Intent i = new Intent(org.opencv.javacv.facerecognition.FdActivity.this,
-        				org.opencv.javacv.facerecognition.ImageGallery.class);
+        		Intent i = new Intent(org.opencv.test.facerecognition.FdActivity.this,
+        				org.opencv.test.facerecognition.ImageGallery.class);
         		i.putExtra("path", mPath);
         		startActivity(i);
         	};

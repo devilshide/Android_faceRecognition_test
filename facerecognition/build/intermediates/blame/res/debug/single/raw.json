@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/raw/lbpcascade_frontalface.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/raw/lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/raw/haarcascade_hand_1.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/raw/haarcascade_hand_1.xml"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/raw/haarcascade_hand_2.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/raw/haarcascade_hand_2.xml"
+    }
+]

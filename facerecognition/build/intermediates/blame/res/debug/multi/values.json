@@ -1,0 +1,788 @@
+[
+    {
+        "outputFile": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9493,
+                    "endColumn": 26,
+                    "endOffset": 9515
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9520,
+                    "endColumn": 46,
+                    "endOffset": 9562
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9567,
+                    "endColumn": 51,
+                    "endOffset": 9614
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9619,
+                    "endColumn": 81,
+                    "endOffset": 9696
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9701,
+                    "endColumn": 42,
+                    "endOffset": 9739
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9744,
+                    "endColumn": 65,
+                    "endOffset": 9805
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9810,
+                    "endColumn": 48,
+                    "endOffset": 9854
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9859,
+                    "endColumn": 43,
+                    "endOffset": 9898
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9903,
+                    "endColumn": 53,
+                    "endOffset": 9952
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9957,
+                    "endColumn": 38,
+                    "endOffset": 9991
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9996,
+                    "endColumn": 64,
+                    "endOffset": 10056
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 64,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10061,
+                    "endColumn": 42,
+                    "endOffset": 10099
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10104,
+                    "endColumn": 51,
+                    "endOffset": 10151
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10156,
+                    "endColumn": 51,
+                    "endOffset": 10203
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10208,
+                    "endColumn": 52,
+                    "endOffset": 10256
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10261,
+                    "endColumn": 40,
+                    "endOffset": 10297
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10302,
+                    "endColumn": 51,
+                    "endOffset": 10349
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10354,
+                    "endColumn": 50,
+                    "endOffset": 10400
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10405,
+                    "endColumn": 59,
+                    "endOffset": 10460
+                },
+                "from": {
+                    "file": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

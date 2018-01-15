@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/layout/face_detect_surface_view.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/layout/face_detect_surface_view.xml"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/layout/catalog_grid_view.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/layout/catalog_grid_view.xml"
+    },
+    {
+        "merged": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/res/merged/debug/layout/catalog_view.xml",
+        "source": "/home/changdo/gitDownloads/face-recognition-test/facerecognition/src/main/res/layout/catalog_view.xml"
+    }
+]

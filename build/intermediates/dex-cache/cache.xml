@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/changdo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fb66ffe83712a9efab11423264930a52e3844c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition-test/facerecognition/libs/javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/pre-dexed/debug/javacv_0f480b060f748bf18772882cd8ad1ba910a073c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition-test/facerecognition/libs/javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/pre-dexed/debug/javacpp_4c400bc33c4a7a92ee1c477073000f3d8d38a2d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_a8c20d29b60978bcf91c8452342493a1bd716f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition/facerecognition/libs/javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="/home/changdo/gitDownloads/face-recognition/facerecognition/build/intermediates/pre-dexed/debug/javacpp_b3cab0038f810fecf5cb52a731903aeca834771f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition/facerecognition/build/intermediates/exploded-aar/face-recognition/openCVLibrary300/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0cd8852bd44e4899538c421a4cb1aec4c9cfa73">
+        <dex dex="/home/changdo/gitDownloads/face-recognition/facerecognition/build/intermediates/pre-dexed/debug/face-recognition-openCVLibrary300-unspecified_5b7c63522a8522920994342f7db4df6f1aa9206c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/exploded-aar/face-recognition-test/openCVLibrary300/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0cd8852bd44e4899538c421a4cb1aec4c9cfa73">
+        <dex dex="/home/changdo/gitDownloads/face-recognition-test/facerecognition/build/intermediates/pre-dexed/debug/face-recognition-test-openCVLibrary300-unspecified_5202ec2a3024d128dc9f83273a91f47ca71a7d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/changdo/gitDownloads/face-recognition/facerecognition/libs/javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="/home/changdo/gitDownloads/face-recognition/facerecognition/build/intermediates/pre-dexed/debug/javacv_635b825239ddbc0e31fa324a45c495db807c2239.jar" />
+    </item>
+
+</items>

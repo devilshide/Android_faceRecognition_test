@@ -1,4 +1,4 @@
-package org.opencv.javacv.facerecognition;
+package org.opencv.test.facerecognition;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
